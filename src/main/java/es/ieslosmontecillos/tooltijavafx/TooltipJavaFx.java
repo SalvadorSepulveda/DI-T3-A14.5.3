@@ -14,7 +14,7 @@ import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
 
-public class HelloApplication extends Application {
+public class TooltipJavaFx extends Application {
 
     final static String[] rooms = new String[]{
             "Accommodation (BB)",
